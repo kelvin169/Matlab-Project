@@ -1,2 +1,2 @@
-# Matlab-Project
-Very onset of many projects to come
+## Matlab-Project
+#### The very first part will be an illustration of simulation and coding projects 
